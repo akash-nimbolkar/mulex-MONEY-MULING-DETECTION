@@ -1,0 +1,5314 @@
+{
+  "accounts": [
+    {
+      "account_id": "ACC_00003",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_003",
+        "SMURK_004",
+        "SMURK_005",
+        "SMURK_006",
+        "SMURK_008",
+        "SMURK_009",
+        "SMURK_014",
+        "SMURK_019"
+      ],
+      "suspicion_score": 100.0
+    },
+    {
+      "account_id": "ACC_00025",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_005",
+        "SMURK_011",
+        "SMURK_012",
+        "SMURK_014",
+        "SMURK_019",
+        "SMURK_020"
+      ],
+      "suspicion_score": 100.0
+    },
+    {
+      "account_id": "ACC_00044",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_002",
+        "SMURK_004",
+        "SMURK_007",
+        "SMURK_012",
+        "SMURK_013",
+        "SMURK_014",
+        "SMURK_016",
+        "SMURK_017",
+        "SMURK_018",
+        "SMURK_019"
+      ],
+      "suspicion_score": 100.0
+    },
+    {
+      "account_id": "ACC_00048",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_11",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_006",
+        "SMURK_010",
+        "SMURK_012",
+        "SMURK_013",
+        "SMURK_016",
+        "SMURK_017",
+        "SMURK_018",
+        "SMURK_019"
+      ],
+      "suspicion_score": 100.0
+    },
+    {
+      "account_id": "ACC_00001",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.26
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_004",
+        "SMURK_005",
+        "SMURK_010",
+        "SMURK_013"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00002",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.58
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_007",
+        "SMURK_016",
+        "SMURK_018",
+        "SMURK_019",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00004",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_002",
+        "SMURK_007",
+        "SMURK_011",
+        "SMURK_015",
+        "SMURK_018",
+        "SMURK_019"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00005",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_11",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12",
+        "smurfing_fan_in_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_003",
+        "SMURK_006",
+        "SMURK_007",
+        "SMURK_008",
+        "SMURK_009",
+        "SMURK_012",
+        "SMURK_014",
+        "SMURK_015",
+        "SMURK_017",
+        "SMURK_018"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00006",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_004",
+        "SMURK_006",
+        "SMURK_007",
+        "SMURK_010",
+        "SMURK_014",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00007",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_003",
+        "SMURK_004",
+        "SMURK_005",
+        "SMURK_008",
+        "SMURK_010",
+        "SMURK_012",
+        "SMURK_015",
+        "SMURK_017",
+        "SMURK_019",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00008",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_003",
+        "SMURK_004",
+        "SMURK_005",
+        "SMURK_006",
+        "SMURK_010",
+        "SMURK_014",
+        "SMURK_016"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00009",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 76.8
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_004",
+        "SMURK_009",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00010",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_13",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_006",
+        "SMURK_009",
+        "SMURK_013"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00011",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_007",
+        "SMURK_008",
+        "SMURK_009",
+        "SMURK_016"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00012",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.58
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_005",
+        "SMURK_009",
+        "SMURK_014",
+        "SMURK_018",
+        "SMURK_019",
+        "SMURK_020",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00013",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_013",
+        "SMURK_017",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00015",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_003",
+        "SMURK_004",
+        "SMURK_005",
+        "SMURK_009",
+        "SMURK_010",
+        "SMURK_011"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00016",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00017",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 75.52
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_005",
+        "SMURK_011",
+        "SMURK_017"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00018",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_002",
+        "SMURK_003",
+        "SMURK_013",
+        "SMURK_017"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00020",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_009",
+        "SMURK_015",
+        "SMURK_016"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00021",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_007",
+        "SMURK_010",
+        "SMURK_015",
+        "SMURK_016"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00022",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_004",
+        "SMURK_007",
+        "SMURK_008",
+        "SMURK_016",
+        "SMURK_017"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00023",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.26
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_003",
+        "SMURK_005",
+        "SMURK_008",
+        "SMURK_013",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00024",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.29
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_004",
+        "SMURK_006",
+        "SMURK_007",
+        "SMURK_013",
+        "SMURK_016",
+        "SMURK_017"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00026",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_008",
+        "SMURK_011",
+        "SMURK_012",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00027",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10",
+        "smurfing_fan_out_12",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.58
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_006",
+        "SMURK_008",
+        "SMURK_014",
+        "SMURK_016",
+        "SMURK_018",
+        "SMURK_019",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00028",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_11",
+        "smurfing_fan_out_10",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 75.0
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_003",
+        "SMURK_008",
+        "SMURK_010",
+        "SMURK_014",
+        "SMURK_017"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00030",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.58
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_010",
+        "SMURK_013",
+        "SMURK_014",
+        "SMURK_017",
+        "SMURK_018"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00031",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_10",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_005",
+        "SMURK_008",
+        "SMURK_010",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00032",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_13",
+        "smurfing_fan_in_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_004",
+        "SMURK_006",
+        "SMURK_012",
+        "SMURK_015"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00033",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.26
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_011",
+        "SMURK_013",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00034",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_002",
+        "SMURK_019",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00035",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 70.01
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_003"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00036",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_012",
+        "SMURK_015"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00037",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_13",
+        "smurfing_fan_out_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_006",
+        "SMURK_009",
+        "SMURK_010",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00038",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_003",
+        "SMURK_011",
+        "SMURK_012",
+        "SMURK_015",
+        "SMURK_018",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00039",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_13",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.26
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_006",
+        "SMURK_009",
+        "SMURK_011",
+        "SMURK_013",
+        "SMURK_014",
+        "SMURK_015"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00040",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_11",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 73.16
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_003",
+        "SMURK_019"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00041",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_002",
+        "SMURK_020",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00042",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_out_11",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.29
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_003",
+        "SMURK_007",
+        "SMURK_008",
+        "SMURK_016",
+        "SMURK_017",
+        "SMURK_019"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00043",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_13",
+        "smurfing_fan_in_12",
+        "smurfing_fan_in_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.26
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_005",
+        "SMURK_006",
+        "SMURK_013",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00045",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_13",
+        "smurfing_fan_in_10"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 76.8
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_004",
+        "SMURK_006",
+        "SMURK_011",
+        "SMURK_015",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00046",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_012",
+        "SMURK_019",
+        "SMURK_020"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00047",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_12"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.76
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_014"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00049",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11",
+        "smurfing_fan_out_10",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_001",
+        "SMURK_007",
+        "SMURK_009",
+        "SMURK_011",
+        "SMURK_012",
+        "SMURK_014",
+        "SMURK_015",
+        "SMURK_020",
+        "SMURK_021"
+      ],
+      "suspicion_score": 95.0
+    },
+    {
+      "account_id": "ACC_00000",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_10",
+        "smurfing_fan_in_12",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_011",
+        "SMURK_012",
+        "SMURK_013",
+        "SMURK_018",
+        "SMURK_020"
+      ],
+      "suspicion_score": 90.0
+    },
+    {
+      "account_id": "ACC_00014",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.59
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_006"
+      ],
+      "suspicion_score": 90.0
+    },
+    {
+      "account_id": "ACC_00019",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_19",
+        "smurfing_fan_in_12",
+        "smurfing_fan_in_11",
+        "smurfing_fan_in_10",
+        "smurfing_fan_out_13"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 77.78
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_002",
+        "SMURK_012",
+        "SMURK_015",
+        "SMURK_018",
+        "SMURK_020"
+      ],
+      "suspicion_score": 90.0
+    },
+    {
+      "account_id": "ACC_00029",
+      "detected_patterns": [
+        "cycle_length_3",
+        "smurfing_fan_in_11"
+      ],
+      "pattern_scores": {
+        "cycle": 90.0,
+        "smurfing": 74.6
+      },
+      "ring_ids": [
+        "RING_C_001",
+        "SMURK_009"
+      ],
+      "suspicion_score": 90.0
+    }
+  ],
+  "edges": [
+    {
+      "amount": 32932.61,
+      "count": 10,
+      "id": "edge_0",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 9482.72,
+      "count": 1,
+      "id": "edge_1",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 4151.08,
+      "count": 1,
+      "id": "edge_2",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 6590.45,
+      "count": 1,
+      "id": "edge_3",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 8802.24,
+      "count": 1,
+      "id": "edge_4",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 1796.34,
+      "count": 1,
+      "id": "edge_5",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 5654.34,
+      "count": 1,
+      "id": "edge_6",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00035"
+    },
+    {
+      "amount": 5053.74,
+      "count": 1,
+      "id": "edge_7",
+      "is_fraud_edge": true,
+      "source": "ACC_00032",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 27340.54,
+      "count": 10,
+      "id": "edge_8",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 2779.81,
+      "count": 3,
+      "id": "edge_9",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 1677.21,
+      "count": 1,
+      "id": "edge_10",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 9728.82,
+      "count": 1,
+      "id": "edge_11",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 2186.41,
+      "count": 1,
+      "id": "edge_12",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 6038.98,
+      "count": 1,
+      "id": "edge_13",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 443.71,
+      "count": 1,
+      "id": "edge_14",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 9042.62,
+      "count": 1,
+      "id": "edge_15",
+      "is_fraud_edge": true,
+      "source": "ACC_00018",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 21219.75,
+      "count": 10,
+      "id": "edge_16",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00032"
+    },
+    {
+      "amount": 2744.78,
+      "count": 3,
+      "id": "edge_17",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 8282.87,
+      "count": 2,
+      "id": "edge_18",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 6639.65,
+      "count": 1,
+      "id": "edge_19",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 8024.66,
+      "count": 1,
+      "id": "edge_20",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 3924.77,
+      "count": 1,
+      "id": "edge_21",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00017"
+    },
+    {
+      "amount": 246.16,
+      "count": 1,
+      "id": "edge_22",
+      "is_fraud_edge": true,
+      "source": "ACC_00004",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 635.0,
+      "count": 1,
+      "id": "edge_23",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 5808.71,
+      "count": 1,
+      "id": "edge_24",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 3340.85,
+      "count": 1,
+      "id": "edge_25",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00036"
+    },
+    {
+      "amount": 2495.33,
+      "count": 1,
+      "id": "edge_26",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 5965.91,
+      "count": 1,
+      "id": "edge_27",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 2216.48,
+      "count": 1,
+      "id": "edge_28",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 3790.01,
+      "count": 1,
+      "id": "edge_29",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 5985.97,
+      "count": 1,
+      "id": "edge_30",
+      "is_fraud_edge": true,
+      "source": "ACC_00003",
+      "target": "ACC_00017"
+    },
+    {
+      "amount": 3473.89,
+      "count": 3,
+      "id": "edge_31",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 3856.39,
+      "count": 1,
+      "id": "edge_32",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 2404.31,
+      "count": 1,
+      "id": "edge_33",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 1784.01,
+      "count": 1,
+      "id": "edge_34",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 720.32,
+      "count": 1,
+      "id": "edge_35",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 3393.57,
+      "count": 1,
+      "id": "edge_36",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00010"
+    },
+    {
+      "amount": 9952.72,
+      "count": 1,
+      "id": "edge_37",
+      "is_fraud_edge": true,
+      "source": "ACC_00011",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 922.51,
+      "count": 3,
+      "id": "edge_38",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 7491.67,
+      "count": 1,
+      "id": "edge_39",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00010"
+    },
+    {
+      "amount": 279.94,
+      "count": 1,
+      "id": "edge_40",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 8918.61,
+      "count": 1,
+      "id": "edge_41",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 8606.38,
+      "count": 1,
+      "id": "edge_42",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 8329.39,
+      "count": 1,
+      "id": "edge_43",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00032"
+    },
+    {
+      "amount": 2874.95,
+      "count": 1,
+      "id": "edge_44",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00036"
+    },
+    {
+      "amount": 5947.72,
+      "count": 1,
+      "id": "edge_45",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 5488.7,
+      "count": 1,
+      "id": "edge_46",
+      "is_fraud_edge": true,
+      "source": "ACC_00013",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 1069.1,
+      "count": 3,
+      "id": "edge_47",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 3916.16,
+      "count": 1,
+      "id": "edge_48",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00035"
+    },
+    {
+      "amount": 9276.38,
+      "count": 1,
+      "id": "edge_49",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 9154.97,
+      "count": 1,
+      "id": "edge_50",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 519.29,
+      "count": 1,
+      "id": "edge_51",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 4274.61,
+      "count": 1,
+      "id": "edge_52",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 1767.59,
+      "count": 1,
+      "id": "edge_53",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 5569.38,
+      "count": 1,
+      "id": "edge_54",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00038"
+    },
+    {
+      "amount": 505.61,
+      "count": 1,
+      "id": "edge_55",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 3864.01,
+      "count": 1,
+      "id": "edge_56",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 8680.45,
+      "count": 1,
+      "id": "edge_57",
+      "is_fraud_edge": true,
+      "source": "ACC_00008",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 2672.51,
+      "count": 3,
+      "id": "edge_58",
+      "is_fraud_edge": true,
+      "source": "ACC_00014",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 2349.22,
+      "count": 1,
+      "id": "edge_59",
+      "is_fraud_edge": true,
+      "source": "ACC_00014",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 4321.08,
+      "count": 3,
+      "id": "edge_60",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 8977.92,
+      "count": 1,
+      "id": "edge_61",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 9373.1,
+      "count": 1,
+      "id": "edge_62",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 7350.22,
+      "count": 1,
+      "id": "edge_63",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 9243.1,
+      "count": 1,
+      "id": "edge_64",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 937.08,
+      "count": 1,
+      "id": "edge_65",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 4887.88,
+      "count": 1,
+      "id": "edge_66",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 5258.26,
+      "count": 1,
+      "id": "edge_67",
+      "is_fraud_edge": true,
+      "source": "ACC_00007",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 5150.46,
+      "count": 3,
+      "id": "edge_68",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 3630.39,
+      "count": 1,
+      "id": "edge_69",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 2236.57,
+      "count": 1,
+      "id": "edge_70",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 4930.36,
+      "count": 1,
+      "id": "edge_71",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00017"
+    },
+    {
+      "amount": 4957.93,
+      "count": 1,
+      "id": "edge_72",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 4202.31,
+      "count": 2,
+      "id": "edge_73",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 949.75,
+      "count": 1,
+      "id": "edge_74",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 1826.73,
+      "count": 1,
+      "id": "edge_75",
+      "is_fraud_edge": true,
+      "source": "ACC_00015",
+      "target": "ACC_00038"
+    },
+    {
+      "amount": 3513.7,
+      "count": 3,
+      "id": "edge_76",
+      "is_fraud_edge": true,
+      "source": "ACC_00006",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 4111.68,
+      "count": 1,
+      "id": "edge_77",
+      "is_fraud_edge": true,
+      "source": "ACC_00006",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 4697.75,
+      "count": 1,
+      "id": "edge_78",
+      "is_fraud_edge": true,
+      "source": "ACC_00006",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 8781.7,
+      "count": 2,
+      "id": "edge_79",
+      "is_fraud_edge": true,
+      "source": "ACC_00006",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 4053.69,
+      "count": 1,
+      "id": "edge_80",
+      "is_fraud_edge": true,
+      "source": "ACC_00006",
+      "target": "ACC_00043"
+    },
+    {
+      "amount": 4021.96,
+      "count": 3,
+      "id": "edge_81",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 6870.93,
+      "count": 1,
+      "id": "edge_82",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 4618.25,
+      "count": 1,
+      "id": "edge_83",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 12021.91,
+      "count": 2,
+      "id": "edge_84",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 3621.27,
+      "count": 1,
+      "id": "edge_85",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00043"
+    },
+    {
+      "amount": 7894.57,
+      "count": 1,
+      "id": "edge_86",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 17274.13,
+      "count": 2,
+      "id": "edge_87",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00032"
+    },
+    {
+      "amount": 2693.7,
+      "count": 1,
+      "id": "edge_88",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 7265.6,
+      "count": 1,
+      "id": "edge_89",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 5897.8,
+      "count": 1,
+      "id": "edge_90",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 948.5,
+      "count": 1,
+      "id": "edge_91",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 5181.94,
+      "count": 1,
+      "id": "edge_92",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 3805.4,
+      "count": 1,
+      "id": "edge_93",
+      "is_fraud_edge": true,
+      "source": "ACC_00010",
+      "target": "ACC_00014"
+    },
+    {
+      "amount": 4312.94,
+      "count": 3,
+      "id": "edge_94",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 1986.7,
+      "count": 1,
+      "id": "edge_95",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 9303.67,
+      "count": 1,
+      "id": "edge_96",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 1467.31,
+      "count": 1,
+      "id": "edge_97",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 6142.87,
+      "count": 1,
+      "id": "edge_98",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 193.36,
+      "count": 1,
+      "id": "edge_99",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 9020.08,
+      "count": 1,
+      "id": "edge_100",
+      "is_fraud_edge": true,
+      "source": "ACC_00019",
+      "target": "ACC_00010"
+    },
+    {
+      "amount": 1686.28,
+      "count": 3,
+      "id": "edge_101",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 8188.76,
+      "count": 1,
+      "id": "edge_102",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 6241.47,
+      "count": 1,
+      "id": "edge_103",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 10901.21,
+      "count": 2,
+      "id": "edge_104",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 6255.2,
+      "count": 1,
+      "id": "edge_105",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 7384.33,
+      "count": 1,
+      "id": "edge_106",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 7197.66,
+      "count": 1,
+      "id": "edge_107",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 3868.49,
+      "count": 1,
+      "id": "edge_108",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 9781.38,
+      "count": 1,
+      "id": "edge_109",
+      "is_fraud_edge": true,
+      "source": "ACC_00016",
+      "target": "ACC_00026"
+    },
+    {
+      "amount": 40280.0,
+      "count": 8,
+      "id": "edge_110",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00021"
+    },
+    {
+      "amount": 6437.16,
+      "count": 1,
+      "id": "edge_111",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00041"
+    },
+    {
+      "amount": 9086.33,
+      "count": 1,
+      "id": "edge_112",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 3163.51,
+      "count": 1,
+      "id": "edge_113",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 9779.53,
+      "count": 1,
+      "id": "edge_114",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 2630.87,
+      "count": 1,
+      "id": "edge_115",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 3379.24,
+      "count": 1,
+      "id": "edge_116",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 7746.89,
+      "count": 1,
+      "id": "edge_117",
+      "is_fraud_edge": true,
+      "source": "ACC_00020",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 39765.9,
+      "count": 8,
+      "id": "edge_118",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 9676.32,
+      "count": 1,
+      "id": "edge_119",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 4234.72,
+      "count": 1,
+      "id": "edge_120",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 3236.63,
+      "count": 1,
+      "id": "edge_121",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 2781.65,
+      "count": 1,
+      "id": "edge_122",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 1691.15,
+      "count": 1,
+      "id": "edge_123",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 4911.39,
+      "count": 1,
+      "id": "edge_124",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 3470.47,
+      "count": 1,
+      "id": "edge_125",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 3724.24,
+      "count": 1,
+      "id": "edge_126",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 9505.82,
+      "count": 1,
+      "id": "edge_127",
+      "is_fraud_edge": true,
+      "source": "ACC_00021",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 39511.02,
+      "count": 8,
+      "id": "edge_128",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 4369.02,
+      "count": 1,
+      "id": "edge_129",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 4473.29,
+      "count": 1,
+      "id": "edge_130",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 6139.26,
+      "count": 1,
+      "id": "edge_131",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 8098.94,
+      "count": 1,
+      "id": "edge_132",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 7761.45,
+      "count": 1,
+      "id": "edge_133",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 9597.84,
+      "count": 1,
+      "id": "edge_134",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 7824.81,
+      "count": 1,
+      "id": "edge_135",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 5651.42,
+      "count": 1,
+      "id": "edge_136",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00026"
+    },
+    {
+      "amount": 9439.19,
+      "count": 1,
+      "id": "edge_137",
+      "is_fraud_edge": true,
+      "source": "ACC_00022",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 5573.22,
+      "count": 1,
+      "id": "edge_138",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 7698.41,
+      "count": 1,
+      "id": "edge_139",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00026"
+    },
+    {
+      "amount": 8392.57,
+      "count": 2,
+      "id": "edge_140",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 5395.64,
+      "count": 1,
+      "id": "edge_141",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 8101.09,
+      "count": 1,
+      "id": "edge_142",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 5984.59,
+      "count": 1,
+      "id": "edge_143",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00019"
+    },
+    {
+      "amount": 4777.14,
+      "count": 1,
+      "id": "edge_144",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00000"
+    },
+    {
+      "amount": 4480.71,
+      "count": 1,
+      "id": "edge_145",
+      "is_fraud_edge": true,
+      "source": "ACC_00023",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 8912.95,
+      "count": 1,
+      "id": "edge_146",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00001"
+    },
+    {
+      "amount": 1128.35,
+      "count": 1,
+      "id": "edge_147",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 7540.08,
+      "count": 1,
+      "id": "edge_148",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 5557.56,
+      "count": 1,
+      "id": "edge_149",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 868.79,
+      "count": 1,
+      "id": "edge_150",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 11544.8,
+      "count": 2,
+      "id": "edge_151",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00043"
+    },
+    {
+      "amount": 8933.65,
+      "count": 1,
+      "id": "edge_152",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00014"
+    },
+    {
+      "amount": 1348.62,
+      "count": 1,
+      "id": "edge_153",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 7636.54,
+      "count": 1,
+      "id": "edge_154",
+      "is_fraud_edge": true,
+      "source": "ACC_00039",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 3400.03,
+      "count": 1,
+      "id": "edge_155",
+      "is_fraud_edge": true,
+      "source": "ACC_00000",
+      "target": "ACC_00001"
+    },
+    {
+      "amount": 1047.38,
+      "count": 1,
+      "id": "edge_156",
+      "is_fraud_edge": true,
+      "source": "ACC_00000",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 1385.99,
+      "count": 1,
+      "id": "edge_157",
+      "is_fraud_edge": true,
+      "source": "ACC_00000",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 8753.79,
+      "count": 1,
+      "id": "edge_158",
+      "is_fraud_edge": true,
+      "source": "ACC_00000",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 4428.33,
+      "count": 1,
+      "id": "edge_159",
+      "is_fraud_edge": true,
+      "source": "ACC_00000",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 243.18,
+      "count": 1,
+      "id": "edge_160",
+      "is_fraud_edge": true,
+      "source": "ACC_00000",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 1000.34,
+      "count": 1,
+      "id": "edge_161",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 12331.25,
+      "count": 2,
+      "id": "edge_162",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 5317.88,
+      "count": 1,
+      "id": "edge_163",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 7532.25,
+      "count": 1,
+      "id": "edge_164",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00030"
+    },
+    {
+      "amount": 6240.22,
+      "count": 1,
+      "id": "edge_165",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 9649.97,
+      "count": 1,
+      "id": "edge_166",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 4275.93,
+      "count": 1,
+      "id": "edge_167",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 1045.26,
+      "count": 1,
+      "id": "edge_168",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00021"
+    },
+    {
+      "amount": 8685.14,
+      "count": 1,
+      "id": "edge_169",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 5427.28,
+      "count": 1,
+      "id": "edge_170",
+      "is_fraud_edge": true,
+      "source": "ACC_00001",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 4059.23,
+      "count": 1,
+      "id": "edge_171",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00036"
+    },
+    {
+      "amount": 8057.16,
+      "count": 1,
+      "id": "edge_172",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 714.07,
+      "count": 1,
+      "id": "edge_173",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 9156.48,
+      "count": 1,
+      "id": "edge_174",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 3721.7,
+      "count": 2,
+      "id": "edge_175",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 1017.67,
+      "count": 1,
+      "id": "edge_176",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 103.34,
+      "count": 1,
+      "id": "edge_177",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 663.25,
+      "count": 1,
+      "id": "edge_178",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 9884.24,
+      "count": 1,
+      "id": "edge_179",
+      "is_fraud_edge": true,
+      "source": "ACC_00041",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 7196.5,
+      "count": 1,
+      "id": "edge_180",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00043"
+    },
+    {
+      "amount": 13975.98,
+      "count": 2,
+      "id": "edge_181",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 723.92,
+      "count": 1,
+      "id": "edge_182",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 1454.95,
+      "count": 1,
+      "id": "edge_183",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 793.62,
+      "count": 1,
+      "id": "edge_184",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00014"
+    },
+    {
+      "amount": 4217.28,
+      "count": 1,
+      "id": "edge_185",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 4420.99,
+      "count": 1,
+      "id": "edge_186",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 5933.86,
+      "count": 1,
+      "id": "edge_187",
+      "is_fraud_edge": true,
+      "source": "ACC_00036",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 4611.99,
+      "count": 1,
+      "id": "edge_188",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 2278.11,
+      "count": 1,
+      "id": "edge_189",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 4632.73,
+      "count": 1,
+      "id": "edge_190",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 6626.97,
+      "count": 1,
+      "id": "edge_191",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 3631.26,
+      "count": 1,
+      "id": "edge_192",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00001"
+    },
+    {
+      "amount": 2930.54,
+      "count": 1,
+      "id": "edge_193",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 9406.94,
+      "count": 1,
+      "id": "edge_194",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 5341.9,
+      "count": 1,
+      "id": "edge_195",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 5608.58,
+      "count": 1,
+      "id": "edge_196",
+      "is_fraud_edge": true,
+      "source": "ACC_00047",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 21463.31,
+      "count": 3,
+      "id": "edge_197",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00017"
+    },
+    {
+      "amount": 9362.23,
+      "count": 2,
+      "id": "edge_198",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00035"
+    },
+    {
+      "amount": 7895.84,
+      "count": 1,
+      "id": "edge_199",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 862.7,
+      "count": 1,
+      "id": "edge_200",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 6805.6,
+      "count": 1,
+      "id": "edge_201",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 9284.1,
+      "count": 1,
+      "id": "edge_202",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 9002.72,
+      "count": 1,
+      "id": "edge_203",
+      "is_fraud_edge": true,
+      "source": "ACC_00033",
+      "target": "ACC_00000"
+    },
+    {
+      "amount": 7191.42,
+      "count": 2,
+      "id": "edge_204",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00010"
+    },
+    {
+      "amount": 1491.29,
+      "count": 1,
+      "id": "edge_205",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 4393.38,
+      "count": 1,
+      "id": "edge_206",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 7372.73,
+      "count": 1,
+      "id": "edge_207",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 8031.2,
+      "count": 1,
+      "id": "edge_208",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00030"
+    },
+    {
+      "amount": 7907.83,
+      "count": 1,
+      "id": "edge_209",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 3072.84,
+      "count": 1,
+      "id": "edge_210",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00029"
+    },
+    {
+      "amount": 7170.08,
+      "count": 1,
+      "id": "edge_211",
+      "is_fraud_edge": true,
+      "source": "ACC_00017",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 1910.71,
+      "count": 1,
+      "id": "edge_212",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 3294.01,
+      "count": 1,
+      "id": "edge_213",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00036"
+    },
+    {
+      "amount": 2035.35,
+      "count": 1,
+      "id": "edge_214",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00041"
+    },
+    {
+      "amount": 4567.63,
+      "count": 1,
+      "id": "edge_215",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 1825.17,
+      "count": 1,
+      "id": "edge_216",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 2929.62,
+      "count": 1,
+      "id": "edge_217",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 3688.76,
+      "count": 1,
+      "id": "edge_218",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 5218.6,
+      "count": 1,
+      "id": "edge_219",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 6397.89,
+      "count": 1,
+      "id": "edge_220",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 1795.93,
+      "count": 1,
+      "id": "edge_221",
+      "is_fraud_edge": true,
+      "source": "ACC_00025",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 1403.64,
+      "count": 1,
+      "id": "edge_222",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 5436.91,
+      "count": 1,
+      "id": "edge_223",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 4726.98,
+      "count": 1,
+      "id": "edge_224",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 3587.02,
+      "count": 1,
+      "id": "edge_225",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 6387.62,
+      "count": 1,
+      "id": "edge_226",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00021"
+    },
+    {
+      "amount": 2512.23,
+      "count": 2,
+      "id": "edge_227",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00001"
+    },
+    {
+      "amount": 4066.79,
+      "count": 1,
+      "id": "edge_228",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 1042.76,
+      "count": 1,
+      "id": "edge_229",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 5032.38,
+      "count": 1,
+      "id": "edge_230",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00038"
+    },
+    {
+      "amount": 4971.3,
+      "count": 1,
+      "id": "edge_231",
+      "is_fraud_edge": true,
+      "source": "ACC_00048",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 3482.16,
+      "count": 1,
+      "id": "edge_232",
+      "is_fraud_edge": true,
+      "source": "ACC_00045",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 4993.77,
+      "count": 1,
+      "id": "edge_233",
+      "is_fraud_edge": true,
+      "source": "ACC_00045",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 12232.91,
+      "count": 2,
+      "id": "edge_234",
+      "is_fraud_edge": true,
+      "source": "ACC_00045",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 4476.42,
+      "count": 1,
+      "id": "edge_235",
+      "is_fraud_edge": true,
+      "source": "ACC_00045",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 8096.77,
+      "count": 1,
+      "id": "edge_236",
+      "is_fraud_edge": true,
+      "source": "ACC_00045",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 6635.51,
+      "count": 1,
+      "id": "edge_237",
+      "is_fraud_edge": true,
+      "source": "ACC_00045",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 9316.43,
+      "count": 1,
+      "id": "edge_238",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 3135.83,
+      "count": 1,
+      "id": "edge_239",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 1775.59,
+      "count": 1,
+      "id": "edge_240",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 592.3,
+      "count": 1,
+      "id": "edge_241",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 3492.96,
+      "count": 1,
+      "id": "edge_242",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 2852.22,
+      "count": 1,
+      "id": "edge_243",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 3575.15,
+      "count": 1,
+      "id": "edge_244",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 8178.55,
+      "count": 1,
+      "id": "edge_245",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 9366.64,
+      "count": 1,
+      "id": "edge_246",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 3505.18,
+      "count": 1,
+      "id": "edge_247",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 1356.3,
+      "count": 1,
+      "id": "edge_248",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 1456.43,
+      "count": 1,
+      "id": "edge_249",
+      "is_fraud_edge": true,
+      "source": "ACC_00005",
+      "target": "ACC_00030"
+    },
+    {
+      "amount": 11429.6,
+      "count": 2,
+      "id": "edge_250",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 2679.83,
+      "count": 1,
+      "id": "edge_251",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 8009.64,
+      "count": 1,
+      "id": "edge_252",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 4584.74,
+      "count": 1,
+      "id": "edge_253",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00019"
+    },
+    {
+      "amount": 1098.34,
+      "count": 1,
+      "id": "edge_254",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00034"
+    },
+    {
+      "amount": 8888.95,
+      "count": 1,
+      "id": "edge_255",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 9062.81,
+      "count": 1,
+      "id": "edge_256",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 3219.27,
+      "count": 1,
+      "id": "edge_257",
+      "is_fraud_edge": true,
+      "source": "ACC_00049",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 2001.6,
+      "count": 1,
+      "id": "edge_258",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 4964.91,
+      "count": 1,
+      "id": "edge_259",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 6948.7,
+      "count": 1,
+      "id": "edge_260",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 5979.81,
+      "count": 1,
+      "id": "edge_261",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00038"
+    },
+    {
+      "amount": 9615.7,
+      "count": 1,
+      "id": "edge_262",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00043"
+    },
+    {
+      "amount": 8578.08,
+      "count": 1,
+      "id": "edge_263",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 4388.14,
+      "count": 1,
+      "id": "edge_264",
+      "is_fraud_edge": true,
+      "source": "ACC_00027",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 17041.18,
+      "count": 2,
+      "id": "edge_265",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 1715.45,
+      "count": 1,
+      "id": "edge_266",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 5616.97,
+      "count": 2,
+      "id": "edge_267",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 7166.83,
+      "count": 1,
+      "id": "edge_268",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 3317.52,
+      "count": 1,
+      "id": "edge_269",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 303.37,
+      "count": 1,
+      "id": "edge_270",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 8115.92,
+      "count": 1,
+      "id": "edge_271",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00038"
+    },
+    {
+      "amount": 5432.13,
+      "count": 1,
+      "id": "edge_272",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 1470.95,
+      "count": 1,
+      "id": "edge_273",
+      "is_fraud_edge": true,
+      "source": "ACC_00037",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 7598.01,
+      "count": 1,
+      "id": "edge_274",
+      "is_fraud_edge": true,
+      "source": "ACC_00042",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 7595.88,
+      "count": 1,
+      "id": "edge_275",
+      "is_fraud_edge": true,
+      "source": "ACC_00042",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 7204.09,
+      "count": 1,
+      "id": "edge_276",
+      "is_fraud_edge": true,
+      "source": "ACC_00042",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 6888.05,
+      "count": 1,
+      "id": "edge_277",
+      "is_fraud_edge": true,
+      "source": "ACC_00042",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 5151.84,
+      "count": 1,
+      "id": "edge_278",
+      "is_fraud_edge": true,
+      "source": "ACC_00042",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 2757.21,
+      "count": 1,
+      "id": "edge_279",
+      "is_fraud_edge": true,
+      "source": "ACC_00042",
+      "target": "ACC_00029"
+    },
+    {
+      "amount": 4680.67,
+      "count": 1,
+      "id": "edge_280",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 8075.26,
+      "count": 1,
+      "id": "edge_281",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00041"
+    },
+    {
+      "amount": 2917.46,
+      "count": 1,
+      "id": "edge_282",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 6388.32,
+      "count": 1,
+      "id": "edge_283",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 4605.48,
+      "count": 1,
+      "id": "edge_284",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00017"
+    },
+    {
+      "amount": 8049.67,
+      "count": 1,
+      "id": "edge_285",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00021"
+    },
+    {
+      "amount": 1541.85,
+      "count": 1,
+      "id": "edge_286",
+      "is_fraud_edge": true,
+      "source": "ACC_00030",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 5571.26,
+      "count": 1,
+      "id": "edge_287",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 9900.75,
+      "count": 1,
+      "id": "edge_288",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00014"
+    },
+    {
+      "amount": 9195.11,
+      "count": 1,
+      "id": "edge_289",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 7541.86,
+      "count": 1,
+      "id": "edge_290",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 4778.88,
+      "count": 1,
+      "id": "edge_291",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 9496.99,
+      "count": 1,
+      "id": "edge_292",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 3242.28,
+      "count": 1,
+      "id": "edge_293",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 8777.07,
+      "count": 1,
+      "id": "edge_294",
+      "is_fraud_edge": true,
+      "source": "ACC_00034",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 11132.51,
+      "count": 2,
+      "id": "edge_295",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 16463.07,
+      "count": 2,
+      "id": "edge_296",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 4681.33,
+      "count": 1,
+      "id": "edge_297",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 1123.06,
+      "count": 1,
+      "id": "edge_298",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00035"
+    },
+    {
+      "amount": 9103.46,
+      "count": 1,
+      "id": "edge_299",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 5451.04,
+      "count": 1,
+      "id": "edge_300",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 5424.73,
+      "count": 1,
+      "id": "edge_301",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 5678.15,
+      "count": 1,
+      "id": "edge_302",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00026"
+    },
+    {
+      "amount": 7112.57,
+      "count": 1,
+      "id": "edge_303",
+      "is_fraud_edge": true,
+      "source": "ACC_00002",
+      "target": "ACC_00032"
+    },
+    {
+      "amount": 5847.51,
+      "count": 1,
+      "id": "edge_304",
+      "is_fraud_edge": true,
+      "source": "ACC_00035",
+      "target": "ACC_00041"
+    },
+    {
+      "amount": 3778.09,
+      "count": 1,
+      "id": "edge_305",
+      "is_fraud_edge": true,
+      "source": "ACC_00035",
+      "target": "ACC_00029"
+    },
+    {
+      "amount": 1300.26,
+      "count": 1,
+      "id": "edge_306",
+      "is_fraud_edge": true,
+      "source": "ACC_00035",
+      "target": "ACC_00008"
+    },
+    {
+      "amount": 5703.07,
+      "count": 1,
+      "id": "edge_307",
+      "is_fraud_edge": true,
+      "source": "ACC_00035",
+      "target": "ACC_00037"
+    },
+    {
+      "amount": 5082.14,
+      "count": 1,
+      "id": "edge_308",
+      "is_fraud_edge": true,
+      "source": "ACC_00035",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 2276.96,
+      "count": 1,
+      "id": "edge_309",
+      "is_fraud_edge": true,
+      "source": "ACC_00035",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 6677.72,
+      "count": 1,
+      "id": "edge_310",
+      "is_fraud_edge": true,
+      "source": "ACC_00028",
+      "target": "ACC_00029"
+    },
+    {
+      "amount": 7135.87,
+      "count": 1,
+      "id": "edge_311",
+      "is_fraud_edge": true,
+      "source": "ACC_00028",
+      "target": "ACC_00043"
+    },
+    {
+      "amount": 9798.56,
+      "count": 1,
+      "id": "edge_312",
+      "is_fraud_edge": true,
+      "source": "ACC_00028",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 9656.12,
+      "count": 1,
+      "id": "edge_313",
+      "is_fraud_edge": true,
+      "source": "ACC_00028",
+      "target": "ACC_00035"
+    },
+    {
+      "amount": 8713.4,
+      "count": 1,
+      "id": "edge_314",
+      "is_fraud_edge": true,
+      "source": "ACC_00029",
+      "target": "ACC_00038"
+    },
+    {
+      "amount": 2828.4,
+      "count": 1,
+      "id": "edge_315",
+      "is_fraud_edge": true,
+      "source": "ACC_00029",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 5753.4,
+      "count": 1,
+      "id": "edge_316",
+      "is_fraud_edge": true,
+      "source": "ACC_00029",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 279.74,
+      "count": 1,
+      "id": "edge_317",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00030"
+    },
+    {
+      "amount": 6178.53,
+      "count": 1,
+      "id": "edge_318",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 7151.35,
+      "count": 1,
+      "id": "edge_319",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00013"
+    },
+    {
+      "amount": 9164.07,
+      "count": 2,
+      "id": "edge_320",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 8992.22,
+      "count": 1,
+      "id": "edge_321",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 4072.23,
+      "count": 1,
+      "id": "edge_322",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00028"
+    },
+    {
+      "amount": 2312.59,
+      "count": 1,
+      "id": "edge_323",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 3834.18,
+      "count": 1,
+      "id": "edge_324",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 9035.93,
+      "count": 1,
+      "id": "edge_325",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00005"
+    },
+    {
+      "amount": 6014.46,
+      "count": 1,
+      "id": "edge_326",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00017"
+    },
+    {
+      "amount": 4768.94,
+      "count": 1,
+      "id": "edge_327",
+      "is_fraud_edge": true,
+      "source": "ACC_00024",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 1746.08,
+      "count": 1,
+      "id": "edge_328",
+      "is_fraud_edge": true,
+      "source": "ACC_00031",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 7389.09,
+      "count": 1,
+      "id": "edge_329",
+      "is_fraud_edge": true,
+      "source": "ACC_00031",
+      "target": "ACC_00034"
+    },
+    {
+      "amount": 5600.4,
+      "count": 2,
+      "id": "edge_330",
+      "is_fraud_edge": true,
+      "source": "ACC_00031",
+      "target": "ACC_00030"
+    },
+    {
+      "amount": 6227.6,
+      "count": 1,
+      "id": "edge_331",
+      "is_fraud_edge": true,
+      "source": "ACC_00031",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 8259.05,
+      "count": 1,
+      "id": "edge_332",
+      "is_fraud_edge": true,
+      "source": "ACC_00031",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 9163.25,
+      "count": 1,
+      "id": "edge_333",
+      "is_fraud_edge": true,
+      "source": "ACC_00031",
+      "target": "ACC_00001"
+    },
+    {
+      "amount": 1409.37,
+      "count": 1,
+      "id": "edge_334",
+      "is_fraud_edge": true,
+      "source": "ACC_00046",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 432.41,
+      "count": 1,
+      "id": "edge_335",
+      "is_fraud_edge": true,
+      "source": "ACC_00046",
+      "target": "ACC_00047"
+    },
+    {
+      "amount": 639.45,
+      "count": 1,
+      "id": "edge_336",
+      "is_fraud_edge": true,
+      "source": "ACC_00046",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 2427.46,
+      "count": 1,
+      "id": "edge_337",
+      "is_fraud_edge": true,
+      "source": "ACC_00046",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 8212.61,
+      "count": 1,
+      "id": "edge_338",
+      "is_fraud_edge": true,
+      "source": "ACC_00046",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 8259.85,
+      "count": 2,
+      "id": "edge_339",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00036"
+    },
+    {
+      "amount": 661.76,
+      "count": 1,
+      "id": "edge_340",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00010"
+    },
+    {
+      "amount": 8470.15,
+      "count": 1,
+      "id": "edge_341",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00011"
+    },
+    {
+      "amount": 9878.53,
+      "count": 1,
+      "id": "edge_342",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00022"
+    },
+    {
+      "amount": 3249.55,
+      "count": 1,
+      "id": "edge_343",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00021"
+    },
+    {
+      "amount": 8515.87,
+      "count": 1,
+      "id": "edge_344",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00006"
+    },
+    {
+      "amount": 4095.41,
+      "count": 1,
+      "id": "edge_345",
+      "is_fraud_edge": true,
+      "source": "ACC_00040",
+      "target": "ACC_00044"
+    },
+    {
+      "amount": 5015.27,
+      "count": 1,
+      "id": "edge_346",
+      "is_fraud_edge": true,
+      "source": "ACC_00012",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 5735.54,
+      "count": 1,
+      "id": "edge_347",
+      "is_fraud_edge": true,
+      "source": "ACC_00012",
+      "target": "ACC_00014"
+    },
+    {
+      "amount": 1298.72,
+      "count": 1,
+      "id": "edge_348",
+      "is_fraud_edge": true,
+      "source": "ACC_00012",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 6522.9,
+      "count": 1,
+      "id": "edge_349",
+      "is_fraud_edge": true,
+      "source": "ACC_00012",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 8004.16,
+      "count": 1,
+      "id": "edge_350",
+      "is_fraud_edge": true,
+      "source": "ACC_00012",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 2419.54,
+      "count": 1,
+      "id": "edge_351",
+      "is_fraud_edge": true,
+      "source": "ACC_00012",
+      "target": "ACC_00024"
+    },
+    {
+      "amount": 7449.03,
+      "count": 1,
+      "id": "edge_352",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00034"
+    },
+    {
+      "amount": 8694.85,
+      "count": 1,
+      "id": "edge_353",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 8831.54,
+      "count": 1,
+      "id": "edge_354",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 6187.03,
+      "count": 1,
+      "id": "edge_355",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00004"
+    },
+    {
+      "amount": 1336.18,
+      "count": 1,
+      "id": "edge_356",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 3268.96,
+      "count": 2,
+      "id": "edge_357",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00027"
+    },
+    {
+      "amount": 1660.03,
+      "count": 1,
+      "id": "edge_358",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00003"
+    },
+    {
+      "amount": 9876.31,
+      "count": 1,
+      "id": "edge_359",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 7241.02,
+      "count": 1,
+      "id": "edge_360",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00042"
+    },
+    {
+      "amount": 9210.41,
+      "count": 2,
+      "id": "edge_361",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 8703.85,
+      "count": 1,
+      "id": "edge_362",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 6168.33,
+      "count": 1,
+      "id": "edge_363",
+      "is_fraud_edge": true,
+      "source": "ACC_00044",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 8003.23,
+      "count": 1,
+      "id": "edge_364",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00023"
+    },
+    {
+      "amount": 8290.14,
+      "count": 1,
+      "id": "edge_365",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 7139.92,
+      "count": 1,
+      "id": "edge_366",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 11280.72,
+      "count": 2,
+      "id": "edge_367",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00049"
+    },
+    {
+      "amount": 2695.63,
+      "count": 1,
+      "id": "edge_368",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 9529.76,
+      "count": 1,
+      "id": "edge_369",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00026"
+    },
+    {
+      "amount": 8910.59,
+      "count": 1,
+      "id": "edge_370",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00016"
+    },
+    {
+      "amount": 7167.1,
+      "count": 1,
+      "id": "edge_371",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00000"
+    },
+    {
+      "amount": 746.57,
+      "count": 1,
+      "id": "edge_372",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00019"
+    },
+    {
+      "amount": 6998.15,
+      "count": 1,
+      "id": "edge_373",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00031"
+    },
+    {
+      "amount": 9000.23,
+      "count": 1,
+      "id": "edge_374",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 5679.33,
+      "count": 1,
+      "id": "edge_375",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00041"
+    },
+    {
+      "amount": 6304.79,
+      "count": 1,
+      "id": "edge_376",
+      "is_fraud_edge": true,
+      "source": "ACC_00038",
+      "target": "ACC_00012"
+    },
+    {
+      "amount": 9690.97,
+      "count": 1,
+      "id": "edge_377",
+      "is_fraud_edge": true,
+      "source": "ACC_00026",
+      "target": "ACC_00032"
+    },
+    {
+      "amount": 4140.32,
+      "count": 1,
+      "id": "edge_378",
+      "is_fraud_edge": true,
+      "source": "ACC_00026",
+      "target": "ACC_00033"
+    },
+    {
+      "amount": 7605.74,
+      "count": 1,
+      "id": "edge_379",
+      "is_fraud_edge": true,
+      "source": "ACC_00026",
+      "target": "ACC_00025"
+    },
+    {
+      "amount": 7161.92,
+      "count": 1,
+      "id": "edge_380",
+      "is_fraud_edge": true,
+      "source": "ACC_00026",
+      "target": "ACC_00034"
+    },
+    {
+      "amount": 4731.91,
+      "count": 1,
+      "id": "edge_381",
+      "is_fraud_edge": true,
+      "source": "ACC_00026",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 4405.07,
+      "count": 1,
+      "id": "edge_382",
+      "is_fraud_edge": true,
+      "source": "ACC_00026",
+      "target": "ACC_00014"
+    },
+    {
+      "amount": 1900.76,
+      "count": 1,
+      "id": "edge_383",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00015"
+    },
+    {
+      "amount": 9341.13,
+      "count": 1,
+      "id": "edge_384",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00020"
+    },
+    {
+      "amount": 1924.53,
+      "count": 1,
+      "id": "edge_385",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00000"
+    },
+    {
+      "amount": 3132.66,
+      "count": 1,
+      "id": "edge_386",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00040"
+    },
+    {
+      "amount": 9868.06,
+      "count": 1,
+      "id": "edge_387",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00048"
+    },
+    {
+      "amount": 8468.13,
+      "count": 2,
+      "id": "edge_388",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00046"
+    },
+    {
+      "amount": 7758.31,
+      "count": 1,
+      "id": "edge_389",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00002"
+    },
+    {
+      "amount": 4186.31,
+      "count": 1,
+      "id": "edge_390",
+      "is_fraud_edge": true,
+      "source": "ACC_00043",
+      "target": "ACC_00009"
+    },
+    {
+      "amount": 6618.54,
+      "count": 1,
+      "id": "edge_391",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00036"
+    },
+    {
+      "amount": 7379.26,
+      "count": 1,
+      "id": "edge_392",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00039"
+    },
+    {
+      "amount": 2329.72,
+      "count": 1,
+      "id": "edge_393",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00018"
+    },
+    {
+      "amount": 5387.02,
+      "count": 1,
+      "id": "edge_394",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00021"
+    },
+    {
+      "amount": 3719.39,
+      "count": 1,
+      "id": "edge_395",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00041"
+    },
+    {
+      "amount": 8111.47,
+      "count": 1,
+      "id": "edge_396",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00007"
+    },
+    {
+      "amount": 4949.39,
+      "count": 1,
+      "id": "edge_397",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00045"
+    },
+    {
+      "amount": 5070.56,
+      "count": 1,
+      "id": "edge_398",
+      "is_fraud_edge": true,
+      "source": "ACC_00009",
+      "target": "ACC_00010"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "ACC_00032",
+      "in_ring": true,
+      "label": "ACC_00032",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00018",
+      "in_ring": true,
+      "label": "ACC_00018",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00004",
+      "in_ring": true,
+      "label": "ACC_00004",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00003",
+      "in_ring": true,
+      "label": "ACC_00003",
+      "suspicion_score": 100.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00011",
+      "in_ring": true,
+      "label": "ACC_00011",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00013",
+      "in_ring": true,
+      "label": "ACC_00013",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00008",
+      "in_ring": true,
+      "label": "ACC_00008",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00014",
+      "in_ring": true,
+      "label": "ACC_00014",
+      "suspicion_score": 90.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00007",
+      "in_ring": true,
+      "label": "ACC_00007",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00015",
+      "in_ring": true,
+      "label": "ACC_00015",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00006",
+      "in_ring": true,
+      "label": "ACC_00006",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00010",
+      "in_ring": true,
+      "label": "ACC_00010",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00019",
+      "in_ring": true,
+      "label": "ACC_00019",
+      "suspicion_score": 90.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00016",
+      "in_ring": true,
+      "label": "ACC_00016",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00020",
+      "in_ring": true,
+      "label": "ACC_00020",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00021",
+      "in_ring": true,
+      "label": "ACC_00021",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00022",
+      "in_ring": true,
+      "label": "ACC_00022",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00023",
+      "in_ring": true,
+      "label": "ACC_00023",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00039",
+      "in_ring": true,
+      "label": "ACC_00039",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00000",
+      "in_ring": true,
+      "label": "ACC_00000",
+      "suspicion_score": 90.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00001",
+      "in_ring": true,
+      "label": "ACC_00001",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00041",
+      "in_ring": true,
+      "label": "ACC_00041",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00036",
+      "in_ring": true,
+      "label": "ACC_00036",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00047",
+      "in_ring": true,
+      "label": "ACC_00047",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00033",
+      "in_ring": true,
+      "label": "ACC_00033",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00017",
+      "in_ring": true,
+      "label": "ACC_00017",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00025",
+      "in_ring": true,
+      "label": "ACC_00025",
+      "suspicion_score": 100.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00048",
+      "in_ring": true,
+      "label": "ACC_00048",
+      "suspicion_score": 100.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00045",
+      "in_ring": true,
+      "label": "ACC_00045",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00005",
+      "in_ring": true,
+      "label": "ACC_00005",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00049",
+      "in_ring": true,
+      "label": "ACC_00049",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00027",
+      "in_ring": true,
+      "label": "ACC_00027",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00037",
+      "in_ring": true,
+      "label": "ACC_00037",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00042",
+      "in_ring": true,
+      "label": "ACC_00042",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00030",
+      "in_ring": true,
+      "label": "ACC_00030",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00034",
+      "in_ring": true,
+      "label": "ACC_00034",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00002",
+      "in_ring": true,
+      "label": "ACC_00002",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00035",
+      "in_ring": true,
+      "label": "ACC_00035",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00028",
+      "in_ring": true,
+      "label": "ACC_00028",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00029",
+      "in_ring": true,
+      "label": "ACC_00029",
+      "suspicion_score": 90.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00024",
+      "in_ring": true,
+      "label": "ACC_00024",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00031",
+      "in_ring": true,
+      "label": "ACC_00031",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00046",
+      "in_ring": true,
+      "label": "ACC_00046",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00040",
+      "in_ring": true,
+      "label": "ACC_00040",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00012",
+      "in_ring": true,
+      "label": "ACC_00012",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00044",
+      "in_ring": true,
+      "label": "ACC_00044",
+      "suspicion_score": 100.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00038",
+      "in_ring": true,
+      "label": "ACC_00038",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00026",
+      "in_ring": true,
+      "label": "ACC_00026",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00043",
+      "in_ring": true,
+      "label": "ACC_00043",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    },
+    {
+      "id": "ACC_00009",
+      "in_ring": true,
+      "label": "ACC_00009",
+      "suspicion_score": 95.0,
+      "suspicious": true
+    }
+  ],
+  "rings": [
+    {
+      "member_accounts": [
+        "ACC_00000",
+        "ACC_00001",
+        "ACC_00002",
+        "ACC_00003",
+        "ACC_00004",
+        "ACC_00005",
+        "ACC_00006",
+        "ACC_00007",
+        "ACC_00008",
+        "ACC_00009",
+        "ACC_00010",
+        "ACC_00011",
+        "ACC_00012",
+        "ACC_00013",
+        "ACC_00014",
+        "ACC_00015",
+        "ACC_00016",
+        "ACC_00017",
+        "ACC_00018",
+        "ACC_00019",
+        "ACC_00020",
+        "ACC_00021",
+        "ACC_00022",
+        "ACC_00023",
+        "ACC_00024",
+        "ACC_00025",
+        "ACC_00026",
+        "ACC_00027",
+        "ACC_00028",
+        "ACC_00029",
+        "ACC_00030",
+        "ACC_00031",
+        "ACC_00032",
+        "ACC_00033",
+        "ACC_00034",
+        "ACC_00035",
+        "ACC_00036",
+        "ACC_00037",
+        "ACC_00038",
+        "ACC_00039",
+        "ACC_00040",
+        "ACC_00041",
+        "ACC_00042",
+        "ACC_00043",
+        "ACC_00044",
+        "ACC_00045",
+        "ACC_00046",
+        "ACC_00047",
+        "ACC_00048",
+        "ACC_00049"
+      ],
+      "pattern_type": "cycle",
+      "ring_id": "RING_C_001",
+      "risk_score": 90.0
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00004",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00018",
+        "ACC_00049",
+        "ACC_00047",
+        "ACC_00044",
+        "ACC_00034",
+        "ACC_00037",
+        "ACC_00041",
+        "ACC_00036",
+        "ACC_00031",
+        "ACC_00020",
+        "ACC_00021",
+        "ACC_00004"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_001",
+      "risk_score": 77.76,
+      "smurfing_type": "fan_in",
+      "total_volume": 76054.83,
+      "transaction_count": 20
+    },
+    {
+      "counterparty_count": 19,
+      "hub_account": "ACC_00003",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00004",
+        "ACC_00011",
+        "ACC_00013",
+        "ACC_00008",
+        "ACC_00014",
+        "ACC_00007",
+        "ACC_00015",
+        "ACC_00006",
+        "ACC_00010",
+        "ACC_00019",
+        "ACC_00018",
+        "ACC_00016",
+        "ACC_00022",
+        "ACC_00005",
+        "ACC_00048",
+        "ACC_00032",
+        "ACC_00034",
+        "ACC_00041",
+        "ACC_00044",
+        "ACC_00003"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_002",
+      "risk_score": 77.59,
+      "smurfing_type": "fan_in",
+      "total_volume": 62422.82,
+      "transaction_count": 43
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00008",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00008",
+        "ACC_00003",
+        "ACC_00035",
+        "ACC_00023",
+        "ACC_00005",
+        "ACC_00040",
+        "ACC_00018",
+        "ACC_00007",
+        "ACC_00038",
+        "ACC_00028",
+        "ACC_00015",
+        "ACC_00042"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_003",
+      "risk_score": 70.01,
+      "smurfing_type": "fan_out",
+      "total_volume": 48597.56,
+      "transaction_count": 13
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00007",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00003",
+        "ACC_00032",
+        "ACC_00008",
+        "ACC_00045",
+        "ACC_00015",
+        "ACC_00006",
+        "ACC_00022",
+        "ACC_00001",
+        "ACC_00024",
+        "ACC_00009",
+        "ACC_00044",
+        "ACC_00007"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_004",
+      "risk_score": 76.8,
+      "smurfing_type": "fan_in",
+      "total_volume": 66479.76,
+      "transaction_count": 11
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00015",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00001",
+        "ACC_00023",
+        "ACC_00043",
+        "ACC_00012",
+        "ACC_00017",
+        "ACC_00008",
+        "ACC_00007",
+        "ACC_00031",
+        "ACC_00003",
+        "ACC_00025",
+        "ACC_00015"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_005",
+      "risk_score": 73.18,
+      "smurfing_type": "fan_in",
+      "total_volume": 31803.25,
+      "transaction_count": 10
+    },
+    {
+      "counterparty_count": 13,
+      "hub_account": "ACC_00010",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00010",
+        "ACC_00003",
+        "ACC_00024",
+        "ACC_00048",
+        "ACC_00027",
+        "ACC_00043",
+        "ACC_00005",
+        "ACC_00032",
+        "ACC_00006",
+        "ACC_00037",
+        "ACC_00045",
+        "ACC_00008",
+        "ACC_00039",
+        "ACC_00014"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_006",
+      "risk_score": 73.66,
+      "smurfing_type": "fan_out",
+      "total_volume": 82115.96,
+      "transaction_count": 17
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00021",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00021",
+        "ACC_00022",
+        "ACC_00005",
+        "ACC_00044",
+        "ACC_00049",
+        "ACC_00024",
+        "ACC_00006",
+        "ACC_00042",
+        "ACC_00011",
+        "ACC_00002",
+        "ACC_00004"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_007",
+      "risk_score": 73.3,
+      "smurfing_type": "fan_out",
+      "total_volume": 82998.28,
+      "transaction_count": 17
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00022",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00022",
+        "ACC_00023",
+        "ACC_00003",
+        "ACC_00027",
+        "ACC_00005",
+        "ACC_00031",
+        "ACC_00007",
+        "ACC_00011",
+        "ACC_00042",
+        "ACC_00026",
+        "ACC_00028"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_008",
+      "risk_score": 75.0,
+      "smurfing_type": "fan_out",
+      "total_volume": 102866.24,
+      "transaction_count": 17
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00039",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00003",
+        "ACC_00037",
+        "ACC_00015",
+        "ACC_00005",
+        "ACC_00009",
+        "ACC_00012",
+        "ACC_00029",
+        "ACC_00049",
+        "ACC_00011",
+        "ACC_00020",
+        "ACC_00010",
+        "ACC_00039"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_009",
+      "risk_score": 74.6,
+      "smurfing_type": "fan_in",
+      "total_volume": 44508.02,
+      "transaction_count": 11
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00001",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00001",
+        "ACC_00015",
+        "ACC_00048",
+        "ACC_00006",
+        "ACC_00030",
+        "ACC_00031",
+        "ACC_00037",
+        "ACC_00008",
+        "ACC_00021",
+        "ACC_00007",
+        "ACC_00028"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_010",
+      "risk_score": 71.15,
+      "smurfing_type": "fan_out",
+      "total_volume": 61505.52,
+      "transaction_count": 11
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00033",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00045",
+        "ACC_00004",
+        "ACC_00049",
+        "ACC_00038",
+        "ACC_00015",
+        "ACC_00039",
+        "ACC_00025",
+        "ACC_00017",
+        "ACC_00026",
+        "ACC_00000",
+        "ACC_00033"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_011",
+      "risk_score": 75.52,
+      "smurfing_type": "fan_in",
+      "total_volume": 55165.33,
+      "transaction_count": 11
+    },
+    {
+      "counterparty_count": 12,
+      "hub_account": "ACC_00025",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00048",
+        "ACC_00044",
+        "ACC_00007",
+        "ACC_00005",
+        "ACC_00049",
+        "ACC_00019",
+        "ACC_00026",
+        "ACC_00032",
+        "ACC_00000",
+        "ACC_00046",
+        "ACC_00038",
+        "ACC_00036",
+        "ACC_00025"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_012",
+      "risk_score": 77.78,
+      "smurfing_type": "fan_in",
+      "total_volume": 74780.86,
+      "transaction_count": 12
+    },
+    {
+      "counterparty_count": 12,
+      "hub_account": "ACC_00048",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00001",
+        "ACC_00030",
+        "ACC_00010",
+        "ACC_00039",
+        "ACC_00024",
+        "ACC_00023",
+        "ACC_00043",
+        "ACC_00033",
+        "ACC_00044",
+        "ACC_00013",
+        "ACC_00000",
+        "ACC_00018",
+        "ACC_00048"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_013",
+      "risk_score": 77.26,
+      "smurfing_type": "fan_in",
+      "total_volume": 69577.36,
+      "transaction_count": 15
+    },
+    {
+      "counterparty_count": 12,
+      "hub_account": "ACC_00005",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00005",
+        "ACC_00012",
+        "ACC_00047",
+        "ACC_00003",
+        "ACC_00039",
+        "ACC_00025",
+        "ACC_00028",
+        "ACC_00006",
+        "ACC_00044",
+        "ACC_00027",
+        "ACC_00008",
+        "ACC_00049",
+        "ACC_00030"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_014",
+      "risk_score": 70.16,
+      "smurfing_type": "fan_out",
+      "total_volume": 48603.57,
+      "transaction_count": 12
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00049",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00045",
+        "ACC_00004",
+        "ACC_00021",
+        "ACC_00039",
+        "ACC_00032",
+        "ACC_00038",
+        "ACC_00020",
+        "ACC_00007",
+        "ACC_00036",
+        "ACC_00019",
+        "ACC_00005",
+        "ACC_00049"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_015",
+      "risk_score": 75.32,
+      "smurfing_type": "fan_in",
+      "total_volume": 51690.74,
+      "transaction_count": 13
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00042",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00002",
+        "ACC_00020",
+        "ACC_00027",
+        "ACC_00008",
+        "ACC_00048",
+        "ACC_00044",
+        "ACC_00021",
+        "ACC_00024",
+        "ACC_00022",
+        "ACC_00011",
+        "ACC_00042"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_016",
+      "risk_score": 77.29,
+      "smurfing_type": "fan_in",
+      "total_volume": 72850.5,
+      "transaction_count": 11
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00024",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00024",
+        "ACC_00030",
+        "ACC_00018",
+        "ACC_00013",
+        "ACC_00048",
+        "ACC_00044",
+        "ACC_00028",
+        "ACC_00042",
+        "ACC_00007",
+        "ACC_00005",
+        "ACC_00017",
+        "ACC_00022"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_017",
+      "risk_score": 71.33,
+      "smurfing_type": "fan_out",
+      "total_volume": 61804.23,
+      "transaction_count": 12
+    },
+    {
+      "counterparty_count": 10,
+      "hub_account": "ACC_00012",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00002",
+        "ACC_00005",
+        "ACC_00044",
+        "ACC_00027",
+        "ACC_00030",
+        "ACC_00019",
+        "ACC_00004",
+        "ACC_00000",
+        "ACC_00048",
+        "ACC_00038",
+        "ACC_00012"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_018",
+      "risk_score": 77.58,
+      "smurfing_type": "fan_in",
+      "total_volume": 75827.12,
+      "transaction_count": 11
+    },
+    {
+      "counterparty_count": 12,
+      "hub_account": "ACC_00044",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00044",
+        "ACC_00034",
+        "ACC_00025",
+        "ACC_00040",
+        "ACC_00004",
+        "ACC_00012",
+        "ACC_00027",
+        "ACC_00003",
+        "ACC_00046",
+        "ACC_00042",
+        "ACC_00048",
+        "ACC_00002",
+        "ACC_00007"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_019",
+      "risk_score": 73.16,
+      "smurfing_type": "fan_out",
+      "total_volume": 78627.53,
+      "transaction_count": 14
+    },
+    {
+      "counterparty_count": 13,
+      "hub_account": "ACC_00038",
+      "hub_role": "disperser",
+      "member_accounts": [
+        "ACC_00038",
+        "ACC_00023",
+        "ACC_00033",
+        "ACC_00046",
+        "ACC_00049",
+        "ACC_00002",
+        "ACC_00026",
+        "ACC_00016",
+        "ACC_00000",
+        "ACC_00019",
+        "ACC_00031",
+        "ACC_00025",
+        "ACC_00041",
+        "ACC_00012"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_020",
+      "risk_score": 74.62,
+      "smurfing_type": "fan_out",
+      "total_volume": 91746.15,
+      "transaction_count": 14
+    },
+    {
+      "counterparty_count": 11,
+      "hub_account": "ACC_00009",
+      "hub_role": "aggregator",
+      "member_accounts": [
+        "ACC_00034",
+        "ACC_00013",
+        "ACC_00006",
+        "ACC_00045",
+        "ACC_00049",
+        "ACC_00041",
+        "ACC_00007",
+        "ACC_00027",
+        "ACC_00043",
+        "ACC_00012",
+        "ACC_00037",
+        "ACC_00009"
+      ],
+      "pattern_type": "smurfing",
+      "ring_id": "SMURK_021",
+      "risk_score": 75.89,
+      "smurfing_type": "fan_in",
+      "total_volume": 57432.76,
+      "transaction_count": 11
+    }
+  ],
+  "summary": {
+    "detection_timestamp": "2026-02-20 04:36:34",
+    "fraud_rings_detected": 22,
+    "processing_time_seconds": 0.4,
+    "suspicious_accounts_flagged": 50,
+    "total_accounts_analyzed": 50,
+    "total_transactions_processed": 500
+  },
+  "timestamp": "2026-02-20T04:36:37.988596"
+}
