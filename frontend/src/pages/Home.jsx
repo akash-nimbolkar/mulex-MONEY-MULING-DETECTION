@@ -122,7 +122,7 @@ TX12,S1,I,10,2026-02-05 12:30:00
           <div className="p-3 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl shadow-lg shadow-blue-500/50">
             <FlaskConical size={24} className="text-white" />
           </div>
-          <span className="text-lg font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">Financial Forensics Engine</span>
+          <span className="text-lg font-bold bg-gradient-to-r from-blue-400 to-purple-400 bg-clip-text text-transparent">MuleX - Financial Forensics Engine</span>
         </div>
 
         <h1 className="text-6xl font-black bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 bg-clip-text text-transparent mb-4 animate-fadeInUp">
