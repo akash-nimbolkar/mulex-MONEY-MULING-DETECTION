@@ -182,7 +182,8 @@ The system generates a JSON file in the **exact required format**, including:
 ```bash
 pip install -r requirements.txt
 python app.py
+```
 
 Frontend
-npm install
-npm start
+- npm install
+- npm start
