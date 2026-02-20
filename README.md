@@ -190,7 +190,10 @@ Frontend
 
 ## 📌 Usage Instructions
 
-Upload a CSV file from the homepage
-Click Analyze
-View graph visualization and fraud rings
-Download JSON report
+1) Upload a CSV file from the homepage
+
+2) Click Analyze
+
+3) View graph visualization and fraud rings
+
+4) Download JSON report
