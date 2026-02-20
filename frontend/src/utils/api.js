@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // Configure base URL - change based on environment
 // For Vite, use import.meta.env instead of process.env
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:5000'
+const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://mulex-money-muling-detection.onrender.com'
 
 const api = axios.create({
   baseURL: API_BASE_URL,
