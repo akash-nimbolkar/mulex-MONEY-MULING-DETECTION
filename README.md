@@ -200,3 +200,9 @@ Frontend
 3) View graph visualization and fraud rings
 
 4) Download JSON report
+
+---
+## TEAM MEMBERS -
+Sneha Sakhare
+Akash Nimbolkar
+Akshay Ghule
