@@ -188,12 +188,9 @@ Frontend
 - npm install
 - npm start
 
-- 📌 Usage Instructions
+## 📌 Usage Instructions
 
 Upload a CSV file from the homepage
-
 Click Analyze
-
 View graph visualization and fraud rings
-
 Download JSON report
