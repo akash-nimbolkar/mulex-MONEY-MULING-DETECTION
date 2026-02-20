@@ -188,6 +188,8 @@ Frontend
 - npm install
 - npm start
 
+--- 
+
 ## 📌 Usage Instructions
 
 1) Upload a CSV file from the homepage
