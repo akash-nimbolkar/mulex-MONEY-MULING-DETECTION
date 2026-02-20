@@ -358,19 +358,28 @@ def internal_error(error):
 # ENTRY POINT
 # ============================================================================
 
+# if __name__ == "__main__":
+#     print("\n" + "="*70)
+#     print("MONEY MULING DETECTION ENGINE - Backend")
+#     print("RIFT 2026 Hackathon Challenge")
+#     print("="*70)
+#     print(f"Starting Flask server...")
+#     print(f"Upload folder: {UPLOAD_FOLDER}")
+#     print(f"CORS enabled for frontend development")
+#     print("="*70 + "\n")
+    
+#     app.run(
+#         host="0.0.0.0",
+#         port=5000,
+#         debug=True,
+#         use_reloader=False  # Important: prevents duplicate analysis
+#     )
 if __name__ == "__main__":
-    print("\n" + "="*70)
-    print("MONEY MULING DETECTION ENGINE - Backend")
-    print("RIFT 2026 Hackathon Challenge")
-    print("="*70)
-    print(f"Starting Flask server...")
-    print(f"Upload folder: {UPLOAD_FOLDER}")
-    print(f"CORS enabled for frontend development")
-    print("="*70 + "\n")
+    port = int(os.environ.get("PORT", 5000))
+    print(f"Starting server on port {port}")
     
     app.run(
         host="0.0.0.0",
-        port=5000,
-        debug=True,
-        use_reloader=False  # Important: prevents duplicate analysis
+        port=port,
+        debug=False
     )
