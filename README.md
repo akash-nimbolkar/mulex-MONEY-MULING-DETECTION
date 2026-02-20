@@ -16,7 +16,7 @@ MuleX addresses this problem by modeling financial transactions as a **directed 
 
 ## 🚀 Live Demo
 
-🔗 **Hosted Application:** *(Add your deployed URL here)*  
+🔗 **Hosted Application:** (https://mulex-money-muling-detection.vercel.app/) 
 📦 **GitHub Repository:** (https://github.com/akash-nimbolkar/mulex-MONEY-MULING-DETECTION) 
 
 ---
